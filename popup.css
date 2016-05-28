@@ -1,0 +1,8 @@
+ul {
+	list-style: none;
+	padding-left: 20px;
+}
+
+li {
+	white-space: nowrap;
+}
