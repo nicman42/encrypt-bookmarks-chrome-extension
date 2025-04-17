@@ -1,3 +1,1 @@
-# encrypt-bookmarks (chrome extension)
-
-https://chrome.google.com/webstore/detail/encrypt-bookmarks/hcpaocmdicohjapdlhdpaoaibpobahmm
+moved to https://codeberg.org/nicman/encrypt-bookmarks-chrome-extension
